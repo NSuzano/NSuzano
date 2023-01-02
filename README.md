@@ -3,12 +3,9 @@
 # Sobre Mim 
 Me chamo Nathan Suzano, tenho 26 anos recentemente formado de Análise e Desenvolvimento de Sistemas com alguns cursos na história, curso técnico de TI foi onde tive a minha primeira interação com programação onde eu gostei e dali tive alguns empregos na área. Meu útimo emprego fui Desenvolvedor Júnior Flutter, onde desenvolvi 3 projetos para a Google Play, onde durou 1 ano e 3 Meses.
 
-
 <div>
 <a href="https://www.linkedin.com/in/nathan-suzano-53a82910b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div>
-
-![]([name-of-giphy.gif](https://tenor.com/bIgLu.gif)
 
 
 

@@ -8,7 +8,7 @@
 - ⚡ Curiosidade: ...
 
 
-![Snake animation](https://github.com/NSuzano/NSuzano/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NSuzano/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---

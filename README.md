@@ -10,7 +10,7 @@ Me chamo Nathan Suzano, tenho 26 anos recentemente formado de Análise e Desenvo
 
 
 - 🔭 Atualmente estou trabalhando em um projeto Mobile pessoal utilizando como um protifólio para mim, utiliza a api do github para conseguir as informações do meu perfil para o App.
-- 🌱 Atualmente estou aprendendo C# e .NET
+- 🌱 Atualmente estou aprendendo React Native, React JS
 - 📫 Como entrar em contato comigo:  Email : nathan.suzano@gmail.com ou Tel: +55 (21) 991157104
 - ⚡ Curiosidade: Amo a série The Office e Música Indie Rock
 

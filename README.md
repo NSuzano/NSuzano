@@ -14,9 +14,9 @@ I also worked at Devnology using Flutter Web to use responsive websites
 
 
 
-- 🔭 Atualmente estou trabalhando em um projeto Mobile pessoal utilizando como um protifólio para mim, utiliza a api do github para conseguir as informações do meu perfil para o App.
-- 🌱 Atualmente estou aprendendo React Native, React JS
-- 📫 Como entrar em contato comigo:  Email : nathan.suzano@gmail.com ou Tel: +55 (21) 991157104
+- 🔭 I'm currently working on a personal Mobile project using it as a portfolio for myself, using the Github API to get my profile information to the App.
+- 🌱 I'm currently learning React Native, React JS
+- 📫 How to contact me:  Email : nathan.suzano@gmail.com ou Tel: +55 (21) 991157104
 
 
 
@@ -27,7 +27,6 @@ I also worked at Devnology using Flutter Web to use responsive websites
 
   
 
-## ![snake gif](https://github.com/NSuzano/Nsuzano/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 NSuzano/NSuzano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

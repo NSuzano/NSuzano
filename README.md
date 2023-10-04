@@ -13,7 +13,7 @@ I also worked at Devnology using Flutter Web to use responsive websites
 </div>
 
 
-# What i Know?
+# What do i Know? 💻
 
 - Flutter
   * Getx
@@ -34,6 +34,7 @@ I also worked at Devnology using Flutter Web to use responsive websites
     
 
 
+Goals ✔
 
 - 🔭 I'm currently working on a personal Mobile project using it as a portfolio for myself, using the Github API to get my profile information to the App.
 - 🌱 I'm currently learning React Native, React JS

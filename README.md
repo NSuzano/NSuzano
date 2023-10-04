@@ -16,8 +16,22 @@ I also worked at Devnology using Flutter Web to use responsive websites
 # What i Know?
 
 - Flutter
+  * Getx
+  * Firebase
+- PHP
+  * Laravel
 - CSS
   * Bootstrap
+- Javascript
+  * JQuery
+- NodeJs
+- SQL
+  * MySql
+  * PostGreSql
+- React Native
+  * Expo
+  
+    
 
 
 

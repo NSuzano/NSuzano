@@ -48,6 +48,7 @@ I also worked at Devnology using Flutter Web to use responsive websites
 
 
   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nsuzano)](https://github.com/Nsuzano/github-readme-stats)
 
 
 <!---

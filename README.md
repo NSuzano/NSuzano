@@ -27,7 +27,7 @@ I also worked at Devnology using Flutter Web to use responsive websites
 - NodeJs
 - SQL
   * MySql
-  * PostGreSql
+  * PostGre
 - React Native
   * Expo
   
